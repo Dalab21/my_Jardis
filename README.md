@@ -1,7 +1,3 @@
-Bien sûr ! Voici un exemple de `README.md` clair, structuré et adapté pour un développeur avec ton niveau :
-
----
-
 # 🎙️ JARVIS - Assistant Vocal Inspiré de l’IA de Tony Stark
 
 ## 🧠 À propos du projet
